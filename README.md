@@ -6,7 +6,7 @@ creazione progetto todo introduzione ai Microfrontend (MFE) con single-spa.
 
 ## Tipologie di MFE
 
-Durante l'inizializzazione del progetto, il framework proporrà 3 diverse tipologie di MFE:
+Durante l'inizializzazione del progetto, il framework ci propone 3 diverse tipologie di MFE:
 
 ![Image2](./img/img2.png)
 
