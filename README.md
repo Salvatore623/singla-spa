@@ -97,7 +97,7 @@ all'interno del file plant-utility-app.js del progetto inserirò queste due funz
 
 ### plant-todo-page.js
 
-questo file carica il nostro file root (root.component.js), al suo intero sono presenti 3 cicli di vita, bootstrap, mount, onmount.
+questo file carica il nostro file root (root.component.js), al suo interno sono presenti 3 cicli di vita, bootstrap, mount, onmount.
 
 ![Image14](./img/img14.png)
 
@@ -121,7 +121,7 @@ output del codice
 
 ## Analisi progetto todo-table
 
-i file presenti in src del MFE todo-table sono gli stessi del MFE todo-page essendo che il 'Parcel', è un tipo specifico di 'Application', quello che ci interessa è creare l'interfaccia grafica, ovvero la tabella dove stampare il todo nel file root.component.js, importeremo la funzione da utilty-app per ascoltare l'evento e lo stamperemo a schermo nella tabella.
+i file presenti in src del MFE todo-table sono gli stessi del MFE todo-page essendo che il 'Parcel', è un tipo specifico di 'Application', quello che ci interessa è creare l'interfaccia grafica, ovvero la tabella dove stampare il todo, nel file root.component.js importeremo la funzione da utilty-app per ascoltare l'evento e lo stamperemo a schermo nella tabella.
 
 ### root.component.js
 
