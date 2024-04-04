@@ -34,7 +34,7 @@ Il progetto è composto da 4 MFE:
 
 ## Avvio dei MFE
 
-Il MFE todo-table (Parcel) così come gli altri due MFE (todo-page, utility-app) non sono ancora registrati nel MFE orchestratore e per questo non è possibile testarli nel flusso dell'applicazione. Per avviarli in modo indipendente, è possibile eseguire il comando `npm run start:standalone`.
+Il MFE todo-table (Parcel) così come gli altri due MFE (todo-page, utility-app) non sono ancora registrati nel MFE orchestratore e per questo non è possibile testarli nel flusso dell'applicazione, è possibile avviarli come MFE indipendenti tramite il comando `npm run start:standalone`.
 
 <img src="./img/img4.png" alt="Description of the image" style="width: 750px;">
 
